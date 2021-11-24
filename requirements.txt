@@ -1,0 +1,12 @@
+python-dotenv
+pandas
+sklearn
+numpy
+matplotlib
+vaderSentiment
+datetime
+nltk
+scipy
+statsmodels
+seaborn
+apt
